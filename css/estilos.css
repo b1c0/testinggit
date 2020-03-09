@@ -1,4 +1,8 @@
 body {
-    background-color: lightblue;
+    background-color: green;
 }
+p {
+    font-family: verdana;
+    font-size: 10px;
+  }
   
